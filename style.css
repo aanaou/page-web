@@ -1,0 +1,21 @@
+h {
+	color:green;
+	font-size:50px;
+}
+
+#photo {
+	
+	width:200px;
+float:right;
+margin-top: 1px;
+    margin-left: 250px;	
+	}
+#photo2 { 
+width:200px;
+float:right
+margin-top: 4px;
+    margin-left: 850px;
+}
+#photo3 { width:200px;
+float:right
+}
